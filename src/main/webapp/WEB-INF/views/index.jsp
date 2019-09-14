@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Hello</title>
+<title>Spring 4 MVC - Hello World Example | BORAJI.COM</title>
 </head>
 <body>
-	<h1>${greeting}</h1>
+	<h2>${message}</h2>
+	<h4>Server date time is : ${date} </h4>
 </body>
 </html>
